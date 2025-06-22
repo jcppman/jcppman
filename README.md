@@ -2,9 +2,6 @@
 
 Seasoned Frontend engineer · Creative technologist · Multidisciplinary human
 
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -21,15 +18,11 @@ Seasoned Frontend engineer · Creative technologist · Multidisciplinary human
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
----
-
 ## 🔍 Current Focus
 
 🚀 Looking for **remote-first frontend roles** in creative tech, music tech, or education tools.
 
 🧪 Meanwhile, I’m building [**Kurasu Manta**](#) – a personalized AI companion for Japanese learners, combining structured lessons with generative content.
-
----
 
 ## 🤝 Who I Am in a Team
 
@@ -38,14 +31,10 @@ Seasoned Frontend engineer · Creative technologist · Multidisciplinary human
 - **Tech Evangelist** – Former Top Tech Lecturer at Splunk Shanghai and co-organizer of JSWed Meetup.
 - **Beloved Mentor** – Interns have literally requested me as their mentor when signing offers.
 
----
-
 ## 🎧 Beyond Code
 
 - **🧘‍♂️ Yoga Teacher** – Registered 200RYT and sound healing therapist, interpreter for yoga philosophy workshops.
 - **🎛️ Music Producer** – Long-time bass player & metalhead, toured in Japan, the U.S., and Europe.
 - **📷 Visual Storyteller** – Photography and filmmaking keep my perspective fresh.
-
----
 
 > “Give me a new domain, and I’ll reach a semi-pro level in months.”
