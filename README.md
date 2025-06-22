@@ -1,22 +1,15 @@
-![Header](https://github.com/jcppman/jcppman/raw/master/assets/header.gif)
+![Header](https://github.com/jcppman/jcppman/blob/main/assets/header.gif)
+
 # 👋 Hi, I'm Chriest Yu (游昀叡)
 
-Seasoned Frontend engineer · Creative technologist · Multidisciplinary human
+## 🛠 Main Tech Stack
 
-## 🛠 Tech Stack
-
-### Frontend
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/-Vue%203-4FC08D?logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-
-### Cross-Platform
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white)
-
-### Backend & Infra
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ## 🔍 Current Focus
