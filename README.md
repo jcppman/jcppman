@@ -16,12 +16,12 @@
 
 🚀 Looking for **remote-first frontend roles** in creative tech, music tech, or education tools.
 
-🧪 Meanwhile, I’m building [**Kurasu Manta**](#) – a personalized AI companion for Japanese learners, combining structured lessons with generative content.
+🧪 Meanwhile, I’m building **Kurasu Manta** – a personalized AI companion for Japanese learners, combining structured lessons with generative content.
 
 ## 🤝 Who I Am in a Team
 
 - **Seasoned Frontend Architect** – I build from the ground up, structure codebases, and create tooling for scale.
-- **Go-to Problem Solver** – I once kept an extra chair by my desk just for teammates who dropped by for help.
+- **Go-to Problem Solver** – I usually keep an extra chair by my desk just for teammates who dropped by for help.
 - **Tech Evangelist** – Former Top Tech Lecturer at Splunk Shanghai and co-organizer of JSWed Meetup.
 - **Beloved Mentor** – Interns have literally requested me as their mentor when signing offers.
 
@@ -31,4 +31,4 @@
 - **🎛️ Music Producer** – Long-time bass player & metalhead, toured in Japan, the U.S., and Europe.
 - **📷 Visual Storyteller** – Photography and filmmaking keep my perspective fresh.
 
-> “Give me a new domain, and I’ll reach a semi-pro level in months.”
+> “Give me a new domain, and I’ll reach a pro level in months.”
